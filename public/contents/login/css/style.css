@@ -1,0 +1,183 @@
+*{
+	margin:0px;
+	padding:0px;
+	outline:0px;
+	}
+	
+img{
+	border:0px;
+	}
+	
+ul, ol{
+	list-style-type:none;
+	}
+	
+a{
+	text-decoration:none;
+	}
+	
+a:hover, a:focus{
+	text-decoration:none;
+	}
+	
+	
+.clr{
+	clear:both;
+	}
+	
+.pd0{
+	padding-left:0px;
+	padding-right:0px;
+	padding-top:0px;
+	padding-bottom:0px;
+	}
+	
+body{
+	font-family:Verdana, Geneva, sans-serif;
+	}
+	
+/*header part code start*/
+
+.header_full{
+	background:#3b80a9;
+	}
+	
+.header{
+	height:50px;
+	}
+	
+/*content part code start*/
+
+.content_full{
+	
+	}
+	
+.content{
+	
+	}
+	
+.sidebar{
+	background-color:#252c34;
+	min-height:600px;
+	}
+	
+.side_user{
+	text-align:center;
+	color:#fff;
+	padding:20px 0px 10px;
+	border-bottom:1px solid #000;
+	}
+	
+.side_user img{
+	width:80px;
+	height:80px;
+	border:2px solid #000;
+	border-radius:50%;
+	display:inline-block;
+	}
+	
+.side_user h4{
+	font-size:14px;
+	margin:5px 0px;
+	}
+	
+.side_user span{
+	color:#666;
+	font-size:12px;
+	}
+	
+.side_user span i{
+	color:#40ff00;
+	}
+
+.side_user span i p{
+	 
+	}
+	
+.sidebar h2{
+	font-size:15px;
+	text-align:center;
+	margin:0px;
+	line-height:40px;
+	background-color:#1b222a;
+	color:#999;
+	border-bottom:1px solid #000;
+	}
+	
+.sidebar ul{
+	
+	}
+	
+.sidebar ul li{
+	
+	}
+	
+.sidebar ul li a{
+	font-size:14px;
+	color:#CCC;
+	line-height:40px;
+	padding-left:20px;
+	display:block;
+	border-bottom:1px solid #000;
+	}
+	
+.sidebar ul li a i{
+	font-size:18px;
+	padding-right:7px;
+	}
+	
+
+	
+/*footer part code start*/
+.footer_full{
+	background-color:#000;
+	}
+	
+.footer{
+	height:40px;
+	}
+	
+/*form part design code start*/
+
+.select_cus > option{
+	padding-left:10px;
+	}
+	
+.heading_title{
+	font-size:16px;
+	font-weight:bold;
+	}
+	
+/*table Part code start*/
+
+.table_cus{
+	border:1px solid #ddd;
+	}
+	
+.table_head{
+	background-color:#ccc;
+	color:#000;
+	}
+	
+.pagina_cus{
+	padding:0px;
+	margin:0px;
+	}
+	
+/*View Part code start*/
+.view_table_cus{
+	border:1px solid #ddd;
+	}
+	
+.view_table_cus tr td:first-child{
+	width:30%;
+	text-align:right;
+	font-size:15px;
+	font-weight:bold;
+	}
+	
+.view_table_cus tr td:last-child{
+	width:68%;
+	text-align:left;
+	}
+
